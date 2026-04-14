@@ -17,8 +17,8 @@
 ---
 
 🌐 **Links**
-- 🔗 LinkedIn: [https://www.linkedin.com/in/dalmacerro/]
-- 🔗 Google Scholar: [[ADD LINK](https://scholar.google.com/citations?user=pSM2_DYAAAAJ&hl=en)]
+- 🔗 LinkedIn: [[Dalma Cerro]https://www.linkedin.com/in/dalmacerro/]
+- 🔗 Google Scholar: [[Dalma Cerro](https://scholar.google.com/citations?user=pSM2_DYAAAAJ&hl=en)]
 
 ---
 
