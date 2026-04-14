@@ -16,11 +16,15 @@
 
 ---
 
-🌐 **Links**
-- 🔗 LinkedIn: [Dalma Cerro](https://www.linkedin.com/in/dalmacerro/)
-- 🔗 Google Scholar: [Dalma Cerro](https://scholar.google.com/citations?user=pSM2_DYAAAAJ&hl=en)
+🌐 **Links**  
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-gray?logo=google-scholar)](🌐 **Links**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dalmacerro/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-gray?logo=google-scholar)](https://scholar.google.com/citations?user=pSM2_DYAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-green?logo=orcid)](https://orcid.org/my-orcid?orcid=0009-0007-8580-4428))
+
 
 ## 🔬 Research Topics
 
@@ -35,7 +39,4 @@
   <img src="https://img.shields.io/badge/Gulf%20of%20Mexico-blueviolet"/>
 </p>
 
----
 
-## ⚙️ Tools
-Python · MATLAB · Palabos · LBM · Petrophysics  
