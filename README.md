@@ -4,18 +4,15 @@
 🎓 PhD Candidate – Petroleum & Geosystems Engineering, The University of Texas at Austin  
 
 ---
-
 🔬 My research focuses on the petrophysical characterization of complex carbonate formations, integrating multi-scale formation data such as pore-scale modeling, laboratory measurements, and well-log data to estimate directional permeability and permeability anisotropy.
 
 ---
-
 🎓 **Education**
 - PhD Candidate Petroleum Engineering – The University of Texas at Austin  
-- M.Sc. Civil Engineering – Pontificia Universidade Catolica do Rio de Janeiro  
+- M.Sc. Civil Engineering – Pontifícia Universidade Católica do Rio de Janeiro  
 - B.Sc. Petroleum Engineering – Universidad Nacional de Colombia  
 
 ---
-
 🌐 **Links**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dalmacerro/)
