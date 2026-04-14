@@ -1,6 +1,6 @@
 # Hola, I'm Dalma Cerro Arrieta 👋
 
-🌎 Originally from Colombia <img src="https://flagcdn.com/w40/co.png" width="25"/>
+🌎 Originally from Colombia <img src="https://flagcdn.com/w40/co.png" width="25"/> <p>
 🎓 PhD Candidate – Petroleum & Geosystems Engineering, The University of Texas at Austin  
 
 ---
